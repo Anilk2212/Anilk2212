@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anil Kotiwale</h1>
-<h3 align="center">A DevOps Engineer from India</h3>
+<h3 align="center">A GCP Data Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anilk2212&label=Profile%20views&color=0e75b6&style=flat" alt="anilk2212" /> </p>
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **GCP Data Engineer**
 
 - 📫 How to reach me **anilkotiwale0@gmail.com**
 
